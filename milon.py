@@ -39,11 +39,11 @@ def jalan(z):
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS imtiazvai TRICKER 
-   THE LEGEND imtiaz
-   THE GAME CHANGER imtiaz
-   imtiazvai
-   imtiaz ▄︻̷̿┻̿═━一
+   THE ANONYMOUS milon TRICKER 
+   THE LEGEND milon
+   THE GAME CHANGER milon
+   milon
+   milon ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mimtiaz
 \033[1;96mGitHub  \033[1;93m: \033[1;92https://github.com/Imtiazvai
